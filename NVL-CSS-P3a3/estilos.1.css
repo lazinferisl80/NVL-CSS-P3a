@@ -1,0 +1,33 @@
+h1{
+    background-color: black;
+    color: white;
+    border: 50px;
+}
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+article{
+background-color: yellow;
+color: green;
+text-align: center;
+border: 50 px;
+}
+div{
+background-color: black;
+text-align: center;
+image-orientation:from-image ;
+}
+
+em{
+    color:red;
+}
+
+ol{
+    background-color: gold;
+    text-align: center;
+    color: blue;
+
+}
